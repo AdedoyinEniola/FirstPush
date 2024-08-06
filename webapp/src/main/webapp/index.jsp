@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Kindly Register for DevOps Learning at CloudTransio and DevOps Automation</h1>
+    <h1>Please Register for DevOps Learning at CloudTransio and DevOps Automation</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
